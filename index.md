@@ -18,3 +18,8 @@ String myVarb= "Hello, world!";
 ``` python
 myVar = "Hello, World!"
 ```
+
+### my hobbies
+- [x] Football
+- [ ] Cricket
+- [x] programing
